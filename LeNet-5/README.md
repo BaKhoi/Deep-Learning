@@ -23,7 +23,7 @@ https://pytorch.org/vision/0.18/generated/torchvision.datasets.FashionMNIST.html
 ## Model
 - **Type:** LeNet-5 Convolutional Neural Network
   
- ![Model Architecture](images\lenet-5.png)
+ ![Model Architecture](images/lenet-5.png)
 - **Architecture:** 
   - Input: 28x28 grayscale images
   - C1: 6x 5x5 convolution, ReLU activation
